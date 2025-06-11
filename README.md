@@ -58,9 +58,9 @@ Ask your question (q to quit): tell me pizza under \$25
 
 ├── RAG/
 
-│   ├── main.py           # CLI-based chatbot logic
+│     ├── main.py           # CLI-based chatbot logic
 
-│   ├── vector.py         # Embedding + Chroma setup
+│     ├── vector.py         # Embedding + Chroma setup
 
 ├── realistic_restaurant_reviews.csv  # Input review dataset
 
