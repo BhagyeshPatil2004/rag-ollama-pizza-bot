@@ -55,6 +55,7 @@ Ask your question (q to quit): tell me pizza under \$25
 ## 📁 Project Structure
 
 \`\`\`
+
 ├── RAG/
 
 │   ├── main.py           # CLI-based chatbot logic
@@ -66,6 +67,7 @@ Ask your question (q to quit): tell me pizza under \$25
 ├── requirements.txt      # Python dependencies
 
 └── README.md             # This file
+
 \`\`\`
 
 ---
