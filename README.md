@@ -91,3 +91,7 @@ Ask your question (q to quit): tell me pizza under \$25
 ## 👨‍💻 Author
 
 [Bhagyesh Patil](https://github.com/BhagyeshPatil2004)
+
+
+![Screenshot 2025-06-11 164637](https://github.com/user-attachments/assets/70522c81-5f85-4f67-acca-9941b2d331b4)
+
